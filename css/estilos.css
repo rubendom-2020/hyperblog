@@ -1,12 +1,12 @@
 body
 {
-    color: rgb(196, 228, 230);
+    color: rgb(17, 17, 17);
     text-align: center;
     font-family: "courier";
     font-size: 16px;
     margin: 0;
     padding: 0;
-    background-color: darkslategray;
+    background-color: rgb(247, 248, 248);
 }
 
 #cabecera
